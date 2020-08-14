@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 <p align="center"> 
   
   Visitor count / 访客
+  
   <br>
+  
   <img src="https://profile-counter.glitch.me/liupengzhouyi/count.svg" />
+  
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liupengzhouyi)](https://github.com/liupengzhouyi/github-readme-stats)
