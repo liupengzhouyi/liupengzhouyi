@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="http://123.56.167.84:8080/File/downloadFile/helloworld.png" alt="Hello world">
+<img src="/images/helloworld.png" alt="Hello world">
 
 <center>
 <p align="center"> 
