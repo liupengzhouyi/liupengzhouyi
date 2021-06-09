@@ -26,10 +26,16 @@ Here are some ideas to get you started:
 </p>
 </center>
 
-![liupeng01](https://github-readme-stats.vercel.app/api?username=liupengzhouyi&card_width=800&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<!-- ![liupeng01](https://github-readme-stats.vercel.app/api?username=liupengzhouyi&card_width=800&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <br>
 ![liupeng02](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800)
-<br>
+<br> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liupengzhouyi&card_width=800&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800" />
+</a>
 <!-- ![liupeng03](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800&layout=compact) -->
 
 
