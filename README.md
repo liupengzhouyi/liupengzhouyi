@@ -26,13 +26,11 @@ Here are some ideas to get you started:
 </p>
 </center>
 
-![liupeng01](https://github-readme-stats.vercel.app/api?username=liupengzhouyi&show_icons=true&card_width=800)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liupengzhouyi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=800)
+![liupeng01](https://github-readme-stats.vercel.app/api?username=liupengzhouyi&card_width=800&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <br>
 ![liupeng02](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800)
 <br>
-![liupeng02](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800&layout=compact)
+<!-- ![liupeng03](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800&layout=compact) -->
 
 
 
