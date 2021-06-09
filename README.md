@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="/images/helloworld.png" alt="Hello world">
+<img src="https://github.com/liupengzhouyi/liupengzhouyi/blob/master/image/helloworld.png" alt="Hello world">
 
 <center>
 <p align="center"> 
