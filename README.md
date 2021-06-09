@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/liupengzhouyi/liupengzhouyi/blob/master/image/helloworld.png" alt="Hello world" style="max-width: 100%;"/>
+<!-- <img src="https://github.com/liupengzhouyi/liupengzhouyi/blob/master/image/helloworld.png" alt="Hello world" style="max-width: 100%;"/> -->
 
 <center>
 <p align="center"> 
@@ -26,16 +26,20 @@ Here are some ideas to get you started:
 </p>
 </center>
 
+|  ![liupeng01](https://github.com/liupengzhouyi/liupengzhouyi/blob/master/image/helloworld.png)   | ![liupeng02](https://github-readme-stats.vercel.app/api?username=liupengzhouyi&card_width=800&bg_color=30,e96443,904e95&title_color=fff&text_color=fff")| 
+| --- | --- |
+|  ![liupeng03](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800)   |    |
+
 <!-- ![liupeng01](https://github-readme-stats.vercel.app/api?username=liupengzhouyi&card_width=800&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <br>
 ![liupeng02](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800)
 <br> -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liupengzhouyi&card_width=800&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800" />
-</a>
+</a> -->
 <!-- ![liupeng03](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800&layout=compact) -->
 
 
