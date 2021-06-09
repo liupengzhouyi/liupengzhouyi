@@ -26,12 +26,11 @@ Here are some ideas to get you started:
 </p>
 </center>
 
-|  ![liupeng01](https://github-readme-stats.vercel.app/api?username=liupengzhouyi&show_icons=true) | 
-|  ![liupeng02](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800)  |
-|---|
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liupengzhouyi&show_icons=true&theme=radical) |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi)](https://github.com/anuraghazra/github-readme-stats)  |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+![liupeng01](https://github-readme-stats.vercel.app/api?username=liupengzhouyi&show_icons=true&theme=radical)
+<br>
+![liupeng02](https://github-readme-stats.vercel.app/api/top-langs/?username=liupengzhouyi&card_width=800&theme=radical)
+
+
 
 
 
